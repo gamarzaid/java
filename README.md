@@ -1,2 +1,2 @@
-# profe-unam
-Actividades de la materia de Estadística y Probabilidad
+# java
+Actividades del Curso- Taller del Lenguaje de programación Java
